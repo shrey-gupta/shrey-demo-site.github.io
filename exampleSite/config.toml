@@ -11,7 +11,7 @@ math = false  # enable KaTeX (https://katex.org/) globally
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   [params.footer]
     text = "By Olivier Roques"
-    url = "https://github.com/ojroques/hugo-researcher"
+    url = "https://github.com/shrey-gupta/shrey-gupta.github.io"
 
 [permalinks]
   "/" = "/:filename"
